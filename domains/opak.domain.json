@@ -1,5 +1,5 @@
 {
-    "description": "Local Tech-music Producer",
+    "description": "Opak Electronic Music Producer",
     "domain": "localplayer.dev",
     "subdomain": "opak",
     "owner": {
@@ -7,8 +7,8 @@
         "email": "carlos.cbr@live.com"
     },
     "record": {
-        "NS": "abdullah.ns.cloudflare.com",
-        "NS": "mina.ns.cloudflare.com"
+        "A": "64.62.151.106",
+        "AAAA": "2001:470:1:1ee::2009"
     },
     "proxied": false
 }
