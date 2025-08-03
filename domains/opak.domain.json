@@ -1,1 +1,13 @@
-
+{
+    "description": "Local Tech-music Producer",
+    "domain": "localplayer.dev",
+    "subdomain": "opak",
+    "owner": {
+        "repo": "https://github.com/Nac1979/Opak",
+        "email": "carlos.cbr@live.com"
+    },
+    "record": {
+        "A": "103.22.200.0/22"
+    },
+    "proxied": false
+}
