@@ -7,7 +7,8 @@
         "email": "carlos.cbr@live.com"
     },
     "record": {
-        "A": "103.22.200.0/22"
+        "NS": "abdullah.ns.cloudflare.com",
+        "NS": "mina.ns.cloudflare.com"
     },
     "proxied": false
 }
